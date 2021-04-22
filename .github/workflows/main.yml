@@ -21,7 +21,7 @@ jobs:
     - name: Publish FluentEmail.Core
       uses: brandedoutcast/publish-nuget@v2.5.2
       with:
-          PROJECT_FILE_PATH: CalculatorApp/CaculatorApp.csproj
+          PROJECT_FILE_PATH: NuGet-Deploy/CalculatorApp/CalculatorApp.csproj
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}
     
     # NuGet package id, used for version detection & defaults to project name
