@@ -24,7 +24,7 @@ jobs:
     - name: Publish CalculatorApp
       uses: brandedoutcast/publish-nuget@v2.5.2
       with:
-          PROJECT_FILE_PATH: CalculatorApp/CalculatorApp.csproj
+          PROJECT_FILE_PATH: ./CalculatorApp/CalculatorApp.csproj
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}
     
     # NuGet package id, used for version detection & defaults to project name

@@ -1,0 +1,9 @@
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\imaga\OneDrive\Documents\GitHub\NuGet-Deploy\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.pdb

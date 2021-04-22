@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NJp2EXj91ZWD4gxoC+/+0hpZU9z3cgHdg/mxsO7dcc00vkf35HVDZRbtE2hy6f2GFHZT0czsRl6C+oONC0ni8g==",
+  "dgSpecHash": "xmt2b7+P6f+JbinGgA2egmc9qfZSMOxsjSkWCrsfHxh0pjXYsveiENaEfJvA8eXDDCLCN7FqeMMQ4dpxdA1Bnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imaga\\Source\\Repos\\NuGet-Deploy\\CalculatorApp\\CalculatorApp.csproj",
+  "projectFilePath": "C:\\Users\\imaga\\OneDrive\\Documents\\GitHub\\NuGet-Deploy\\CalculatorApp\\CalculatorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

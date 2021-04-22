@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imaga\\Source\\Repos\\NuGet-Deploy\\CalculatorApp\\CalculatorApp.csproj",
+      "projectUniqueName": "C:\\Users\\imaga\\OneDrive\\Documents\\GitHub\\NuGet-Deploy\\CalculatorApp\\CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "C:\\Users\\imaga\\Source\\Repos\\NuGet-Deploy\\CalculatorApp\\CalculatorApp.csproj",
+      "projectPath": "C:\\Users\\imaga\\OneDrive\\Documents\\GitHub\\NuGet-Deploy\\CalculatorApp\\CalculatorApp.csproj",
       "packagesPath": "C:\\Users\\imaga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imaga\\Source\\Repos\\NuGet-Deploy\\CalculatorApp\\obj\\",
+      "outputPath": "C:\\Users\\imaga\\OneDrive\\Documents\\GitHub\\NuGet-Deploy\\CalculatorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,7 +32,8 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
