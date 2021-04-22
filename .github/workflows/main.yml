@@ -20,7 +20,7 @@ jobs:
       working-directory: ./CalculatorApp
     - name: Build
       run: dotnet build --configuration Release --no-restore
-       working-directory: ./CalculatorApp
+      working-directory: ./CalculatorApp
     - name: Publish CalculatorApp
       uses: brandedoutcast/publish-nuget@v2.5.2
       with:
